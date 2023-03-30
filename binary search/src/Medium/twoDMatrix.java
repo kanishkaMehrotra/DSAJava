@@ -49,7 +49,7 @@ public class twoDMatrix {
 	        return false;
 	    }
 
-//	space complexity O(m*n) time complexity -->O(log m n) 
+//	space complexity O(m*n) time complexity -->O(log m n) brute force
 	public boolean searchMatrix1(int[][] matrix, int target) {
 
         int n =matrix.length;
