@@ -6,7 +6,7 @@ import java.util.Queue;
 import java.util.Stack;
 
 public class ConstructTree {
-
+//changes
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 Integer arr []= {50,25,12,null,null,37,30,null,null,null,75,62,null,70,null,null,87,null,null};
