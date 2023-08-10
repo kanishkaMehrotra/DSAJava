@@ -12,7 +12,7 @@ public class ConstructTree {
 Integer arr []= {50,25,12,null,null,37,30,null,null,null,75,62,null,70,null,null,87,null,null};
 		
 		//1 ->left 2->right 3->pop
-		
+		//code for trees
 		Node root=new Node(arr[0], null, null);
 		Pair rop =new Pair(root, 1);
 		
